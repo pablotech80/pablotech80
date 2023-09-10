@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pablotech800
 - 👀 I’m interested in Pythonn
-- 🌱 I’m currently learning Code 
+- 🌱 I’m currently learning Codee
 - 💞️ I’m looking to collaborate on Python programs.
 - 📫 How to reach me ptecherasosa@icloud.comm
 
