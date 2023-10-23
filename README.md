@@ -2,7 +2,7 @@
 - 👀 I’m interested in Pythonn
 - 🌱 I’m currently learning Codee
 - 💞️ I’m looking to collaborate on Python programs.
-- 📫 How to reach me ptecherasosa@icloud.comm
+- 📫 How to reach me ptecherasosa@icloud.com
 
 <!---
 pablotech80/pablotech80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
