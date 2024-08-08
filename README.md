@@ -18,7 +18,7 @@
 <a href="https://x.com/pablo_tech_80" target="blank">
   <img align="center" src="https://github.com/pablotech80/pablotech80/blob/main/sl_z_072523_61700_01.jpg" alt="pablo_tech_80" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/pablo-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pablo-tech" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pablo-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pablo-tech" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
