@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pablo Techera </h1>
+<h1 align="center">Hi 👋, I'm Pablo Techeraa </h1>
 <h3 align="center">I'm committed to continuous learning and am currently exploring artificial intelligence and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablotech80&label=Profile%20views&color=0e75b6&style=flat" alt="pablotech80" /> </p>
@@ -14,8 +14,8 @@
 - 📫 How to reach me **ptecherasosa@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/pablo_tech_80" target="blank">
+
+
   <img align="center" src="https://github.com/pablotech80/pablotech80/blob/main/sl_z_072523_61700_01.jpg" alt="pablo_tech_80" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/pablo-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pablo-tech" height="30" width="40" /></a>
