@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pablotech80" alt="pablotech80" /></a> </p>
 
-<p align="left"> <a href="https://x.com/pablo_tech_80" target="blank"><img src="https://img.shields.io/twitter/follow/pablo_tech_80?logo=twitter&style=for-the-badge" alt="pablo_tech_80" /></a> </p>
+
 
 - I´m currently working on a **desktop application that analyzes body composition**
 
