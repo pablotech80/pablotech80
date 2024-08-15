@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pablo Techeraa</h1>
-<h3 align="center">'m committed to continuous learning and am currently exploring artificial intelligence and machine learning.</h3>
+<h1 align="center">Hi 👋, I'm Pablo Techera</h1>
+<h3 align="center">I'm committed to continuous learning and am currently exploring artificial intelligence and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablotech80&label=Profile%20views&color=0e75b6&style=flat" alt="pablotech80" /> </p>
 
