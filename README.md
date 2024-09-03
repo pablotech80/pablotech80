@@ -51,10 +51,10 @@ This project showcases my ability to create practical, industry-specific solutio
 
 The following visualization represents my GitHub contribution behavior, showing the types and distribution of my contributions across different repositories:
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-behavior-analysis?user_id=144359221" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-behavior?user_id=144359221" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-behavior-analysis/thumbnail.png?user_id=144359221&image_size=auto&color_scheme=dark" width="800" height="auto">
-    <img alt="Behavior Analysis of @pablotech80" src="https://next.ossinsight.io/widgets/official/compose-user-behavior-analysis/thumbnail.png?user_id=144359221&image_size=auto&color_scheme=light" width="800" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-behavior/thumbnail.png?user_id=144359221&image_size=auto&color_scheme=dark" width="800" height="auto">
+    <img alt="Behavior Analysis of @pablotech80" src="https://next.ossinsight.io/widgets/official/analyze-user-behavior/thumbnail.png?user_id=144359221&image_size=auto&color_scheme=light" width="800" height="auto">
   </picture>
 </a>
 
@@ -100,7 +100,7 @@ This visualization and the underlying SQL query demonstrate my ability to:
 - Analyze complex data patterns and trends in GitHub activity
 - Contribute across various aspects of software development (pushes, issues, pull requests, etc.)
 - Maintain consistent engagement across different repositories
-- Apply SQL skills to extract meaningful insights from large datasets
+- Apply SQL skills to extract meaningful insights from large datasetss
 
 ## 💼 Professional Experience
 
