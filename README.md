@@ -1,23 +1,33 @@
 # Hello, I'm Pablo Techera! 👋
 
-[Versión en Español](README_ES.md)
+## 💼 Python Developer | Health Tech Innovator | Fitness Entrepreneur
 
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/big-data-analytics-abstract-concept-illustration_335657-2136.jpg?w=740&t=st=1693767323~exp=1693767923~hmac=1218edbae0c0234fc40a1e42eac54853ada3d95954d4ef9ddd12b5649ca9e102" alt="Data Analytics Banner" width="600"/>
-</p>
+I'm a passionate Python Developer with a unique blend of expertise in tech and fitness. My work bridges the gap between software development and health & wellness, creating innovative solutions that empower both fitness professionals and their clients.
 
-## 💼 Python Backend Developer & Data Analyst | Exploring AI & ML
-
-I'm a passionate software developer specializing in Python, with a strong focus on backend development and data analysis. My goal is to create robust and scalable solutions that transform data into valuable insights. I'm committed to continuous learning and currently exploring artificial intelligence and machine learning.
-
-[![Profile Views](https://komarev.com/ghpvc/?username=pablotech80&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/pablotech80)
+[![Profile Views](https://komarev.com/ghpvc/?username=pablotech80&label=Profile%20views&color=0e76a8&style=flat)](https://github.com/pablotech80)
 
 ## 🚀 What I'm up to
 
-- 🔭 I'm currently working on a **desktop application that analyzes body composition**
-- 🌱 I'm continuously improving my skills as a **Python Developer and Data Analyst**
-- 🤝 I'm looking to collaborate on **projects that give me experience in backend development and data analysis**
-- 📫 How to reach me: **ptecherasosa@icloud.com**
+- 🐍 Working as a **Junior Python Developer** at Taunais Research (London, UK - Remote)
+- 💪 Founder of **CoachBodyfit** - Revolutionizing fitness with tech-driven solutions
+- 🖥️ Developed a desktop application for professional body composition analysis
+- 📊 Analyzing and cleansing market data for trading models
+- 🌱 Pursuing PCAP (Certified Associate in Python Programming) certification
+- 🤝 Contributing to open-source projects at Ignitus
+
+## 🏆 Featured Project: Body Composition Analysis Tool
+
+I've recently developed a desktop application that revolutionizes how fitness professionals and nutritionists analyze body composition. This tool provides detailed health assessments, offering a more comprehensive approach to personalized fitness and nutrition planning.
+
+**Repository:** [github.com/pablotech80/analisis_corporal](https://github.com/pablotech80/analisis_corporal)
+
+Key features:
+- Professional-grade body composition analysis
+- Detailed health assessments
+- User-friendly interface for fitness professionals and nutritionists
+- Data-driven insights for personalized fitness and nutrition plans
+
+This project showcases my ability to create practical, industry-specific solutions using Python, demonstrating the powerful intersection of software development and health & wellness.
 
 ## 🛠 Technical Skills
 
@@ -25,55 +35,75 @@ I'm a passionate software developer specializing in Python, with a strong focus 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"/>
+  <img src="https://img.shields.io/badge/APIs-0096D6?style=for-the-badge&logo=api&logoColor=white" alt="APIs"/>
 </p>
 
-## 📊 GitHub Statistics
+## 💼 Professional Experience
+
+### Junior Python Developer at Taunais Research
+*June 2023 - Present | London, UK (Remote)*
+
+- Analyze large datasets to identify trends and patterns in market data
+- Write Python scripts for data cleaning and preprocessing
+- Manage data pipelines using Docker and Kubernetes
+- Utilize AWS services for efficient scaling and data storage
+- Maintain MongoDB and Redis databases for quick data retrieval
+- Support senior developers in building robust and scalable software solutions
+
+### Founder & Tech Lead at CoachBodyfit
+*Current*
+
+- Developed a cutting-edge desktop application for professional body composition analysis
+- Transformed CoachBodyfit from an online nutrition and training service to a health tech platform
+- Created technological tools to empower fitness professionals and clients in the digital age
+- Provide detailed health assessments and personalized fitness solutions
+- Apply data-driven approaches to fitness and wellness
+
+## 📊 GitHub Activity and Statistics
+
+### Pull Request Activity
+<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-open-to-first-response?owner_id=11855343&period=past_28_days&activity=pull-requests" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-open-to-first-response/thumbnail.png?owner_id=11855343&period=past_28_days&activity=pull-requests&image_size=3x6&color_scheme=dark" width="561" height="auto">
+    <img alt="Which Repository Achieves the Shortest Pull Request Completion Time?" src="https://next.ossinsight.io/widgets/official/compose-org-activity-open-to-first-response/thumbnail.png?owner_id=11855343&period=past_28_days&activity=pull-requests&image_size=3x6&color_scheme=light" width="561" height="auto">
+  </picture>
+</a>
+
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pablotech80&show_icons=true&theme=tokyonight" alt="Pablo Techera's GitHub Stats" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablotech80&show_icons=true&theme=radical" alt="Pablo Techera's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablotech80&theme=tokyonight" alt="Pablo Techera's Contribution Streak" />
 </p>
 
+### Contribution Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablotech80&theme=radical" alt="Pablo Techera's Contribution Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablotech80&theme=react-dark&bg_color=20232a&color=58a6ff&line=114a88&point=58a6ff&area=true&hide_border=true" alt="Contribution Activity Graph" width="800"/>
 </p>
 
-## 🏆 Featured Projects
+## 🌟 Recommendations
 
-<p align="center">
-  <a href="https://github.com/pablotech80/project-example">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pablotech80&repo=project-example&theme=radical" />
-  </a>
-  <a href="https://github.com/pablotech80/another-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pablotech80&repo=another-project&theme=radical" />
-  </a>
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablotech80&theme=react-dark" alt="Contribution Activity Graph" width="800"/>
-</p>
+> "Pablo's insatiable thirst for knowledge and unwavering commitment make him an exceptional individual in the programming realm. His unique blend of interpersonal skills and technical acumen sets him apart as a standout professional. Pablo's contributions to developing robust and scalable software solutions are invaluable."
+> 
+> *- Joaquin Bejar Garcia, Senior Quant Software Engineer*
 
 ## 🌐 Connect with me
 
 <p align="center">
   <a href="mailto:ptecherasosa@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/pablo-tech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/your_twitter_handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://x.com/pab_tech_80" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</p>
 
 <p align="center">
   <i>Thank you for visiting my profile! Feel free to reach out if you want to collaborate on interesting projects.</i>
