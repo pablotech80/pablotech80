@@ -47,30 +47,6 @@ This project showcases my ability to create practical, industry-specific solutio
   <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT"/>
 </p>
 
-## 📊 GitHub Contribution Behavior
-
-The following visualization represents my GitHub contribution behavior, showing the types and distribution of my contributions across different repositories:
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-repo-top-contributors?user_id=144359221&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-repo-top-contributors/thumbnail.png?user_id=144359221&period=all_times&image_size=auto&color_scheme=dark" width="800" height="auto">
-    <img alt="Top Contributed Repositories of @pablotech80" src="https://next.ossinsight.io/widgets/official/compose-user-repo-top-contributors/thumbnail.png?user_id=144359221&period=all_times&image_size=auto&color_scheme=light" width="800" height="auto">
-  </picture>
-</a>
-
-This graph visualizes my contributions across different repositories, showcasing:
-- The repositories I contribute to most frequently
-- The types of contributions (pushes, pull requests, issues, etc.) for each repository
-- The relative frequency of different contribution types
-
-The data represented in this visualization is similar to what would be produced by the SQL query I provided earlier, which analyzes contribution patterns across repositories and contribution types.
-
-This visualization demonstrates my ability to:
-- Engage consistently across multiple projects
-- Contribute in various ways to software development (code pushes, issue management, code reviews)
-- Focus on key projects while maintaining involvement in others
-- Apply data analysis skills to understand and present complex contribution patterns
-
 ## 💼 Professional Experience
 
 ### Junior Python Developer at Taunais Research
