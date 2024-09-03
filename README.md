@@ -51,56 +51,25 @@ This project showcases my ability to create practical, industry-specific solutio
 
 The following visualization represents my GitHub contribution behavior, showing the types and distribution of my contributions across different repositories:
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-behavior?user_id=144359221" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-repo-top-contributors?user_id=144359221&period=all_times" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-behavior/thumbnail.png?user_id=144359221&image_size=auto&color_scheme=dark" width="800" height="auto">
-    <img alt="Behavior Analysis of @pablotech80" src="https://next.ossinsight.io/widgets/official/analyze-user-behavior/thumbnail.png?user_id=144359221&image_size=auto&color_scheme=light" width="800" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-repo-top-contributors/thumbnail.png?user_id=144359221&period=all_times&image_size=auto&color_scheme=dark" width="800" height="auto">
+    <img alt="Top Contributed Repositories of @pablotech80" src="https://next.ossinsight.io/widgets/official/compose-user-repo-top-contributors/thumbnail.png?user_id=144359221&period=all_times&image_size=auto&color_scheme=light" width="800" height="auto">
   </picture>
 </a>
 
-This graph is generated using data similar to what the following SQL query would produce:
+This graph visualizes my contributions across different repositories, showcasing:
+- The repositories I contribute to most frequently
+- The types of contributions (pushes, pull requests, issues, etc.) for each repository
+- The relative frequency of different contribution types
 
-```sql
-WITH contributions AS (
-    SELECT
-        type,
-        repo_id,
-        FIRST_VALUE(repo_name) OVER (PARTITION BY repo_id ORDER BY created_at DESC) AS repo_name
-    FROM github_events ge
-    WHERE
-        actor_id = 144359221
-        AND (
-            (type = 'PullRequestEvent' AND action = 'opened') OR
-            (type = 'IssuesEvent' AND action = 'opened') OR
-            (type = 'IssueCommentEvent' AND action = 'created') OR
-            (type = 'PullRequestReviewEvent' AND action = 'created') OR
-            (type = 'PullRequestReviewCommentEvent' AND action = 'created') OR
-            (type = 'PushEvent' AND action = '')
-        )
-        
-)
-SELECT
-    repo_id,
-    repo_name,
-    CASE type
-        WHEN 'IssuesEvent' THEN 'issues'
-        WHEN 'IssueCommentEvent' THEN 'issue_comments'
-        WHEN 'PullRequestEvent' THEN 'pull_requests'
-        WHEN 'PullRequestReviewEvent' THEN 'reviews'
-        WHEN 'PullRequestReviewCommentEvent' THEN 'review_comments'
-        WHEN 'PushEvent' THEN 'pushes'
-    END AS type,
-    COUNT(1) AS cnt 
-FROM contributions c
-GROUP BY repo_id, type
-ORDER BY repo_id, type;
-```
+The data represented in this visualization is similar to what would be produced by the SQL query I provided earlier, which analyzes contribution patterns across repositories and contribution types.
 
-This visualization and the underlying SQL query demonstrate my ability to:
-- Analyze complex data patterns and trends in GitHub activity
-- Contribute across various aspects of software development (pushes, issues, pull requests, etc.)
-- Maintain consistent engagement across different repositories
-- Apply SQL skills to extract meaningful insights from large datasetss
+This visualization demonstrates my ability to:
+- Engage consistently across multiple projects
+- Contribute in various ways to software development (code pushes, issue management, code reviews)
+- Focus on key projects while maintaining involvement in others
+- Apply data analysis skills to understand and present complex contribution patterns
 
 ## 💼 Professional Experience
 
