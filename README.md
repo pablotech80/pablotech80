@@ -42,7 +42,65 @@ This project showcases my ability to create practical, industry-specific solutio
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/APIs-0096D6?style=for-the-badge&logo=api&logoColor=white" alt="APIs"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+  <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT"/>
 </p>
+
+## 📊 GitHub Contribution Behavior
+
+The following visualization represents my GitHub contribution behavior, showing the types and distribution of my contributions across different repositories:
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-behavior-analysis?user_id=144359221" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-behavior-analysis/thumbnail.png?user_id=144359221&image_size=auto&color_scheme=dark" width="800" height="auto">
+    <img alt="Behavior Analysis of @pablotech80" src="https://next.ossinsight.io/widgets/official/compose-user-behavior-analysis/thumbnail.png?user_id=144359221&image_size=auto&color_scheme=light" width="800" height="auto">
+  </picture>
+</a>
+
+This graph is generated using data similar to what the following SQL query would produce:
+
+```sql
+WITH contributions AS (
+    SELECT
+        type,
+        repo_id,
+        FIRST_VALUE(repo_name) OVER (PARTITION BY repo_id ORDER BY created_at DESC) AS repo_name
+    FROM github_events ge
+    WHERE
+        actor_id = 144359221
+        AND (
+            (type = 'PullRequestEvent' AND action = 'opened') OR
+            (type = 'IssuesEvent' AND action = 'opened') OR
+            (type = 'IssueCommentEvent' AND action = 'created') OR
+            (type = 'PullRequestReviewEvent' AND action = 'created') OR
+            (type = 'PullRequestReviewCommentEvent' AND action = 'created') OR
+            (type = 'PushEvent' AND action = '')
+        )
+        
+)
+SELECT
+    repo_id,
+    repo_name,
+    CASE type
+        WHEN 'IssuesEvent' THEN 'issues'
+        WHEN 'IssueCommentEvent' THEN 'issue_comments'
+        WHEN 'PullRequestEvent' THEN 'pull_requests'
+        WHEN 'PullRequestReviewEvent' THEN 'reviews'
+        WHEN 'PullRequestReviewCommentEvent' THEN 'review_comments'
+        WHEN 'PushEvent' THEN 'pushes'
+    END AS type,
+    COUNT(1) AS cnt 
+FROM contributions c
+GROUP BY repo_id, type
+ORDER BY repo_id, type;
+```
+
+This visualization and the underlying SQL query demonstrate my ability to:
+- Analyze complex data patterns and trends in GitHub activity
+- Contribute across various aspects of software development (pushes, issues, pull requests, etc.)
+- Maintain consistent engagement across different repositories
+- Apply SQL skills to extract meaningful insights from large datasets
 
 ## 💼 Professional Experience
 
