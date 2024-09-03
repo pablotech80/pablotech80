@@ -67,27 +67,29 @@ This project showcases my ability to create practical, industry-specific solutio
 
 ## 📊 GitHub Activity and Statistics
 
-### Pull Request Activity
-<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-open-to-first-response?owner_id=11855343&period=past_28_days&activity=pull-requests" target="_blank" style="display: block" align="center">
+### GitHub Stats
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=144359221" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-open-to-first-response/thumbnail.png?owner_id=11855343&period=past_28_days&activity=pull-requests&image_size=3x6&color_scheme=dark" width="561" height="auto">
-    <img alt="Which Repository Achieves the Shortest Pull Request Completion Time?" src="https://next.ossinsight.io/widgets/official/compose-org-activity-open-to-first-response/thumbnail.png?owner_id=11855343&period=past_28_days&activity=pull-requests&image_size=3x6&color_scheme=light" width="561" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=144359221&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @pablotech80" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=144359221&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablotech80&show_icons=true&theme=tokyonight" alt="Pablo Techera's GitHub Stats" />
-</p>
+### Recent Work
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=144359221&activity_type=all" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=144359221&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@pablotech80's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=144359221&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablotech80&theme=tokyonight" alt="Pablo Techera's Contribution Streak" />
-</p>
-
-### Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablotech80&theme=react-dark&bg_color=20232a&color=58a6ff&line=114a88&point=58a6ff&area=true&hide_border=true" alt="Contribution Activity Graph" width="800"/>
-</p>
+### Contribution Time Distribution
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=144359221&period=all_times" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=144359221&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Contribution Time Distribution of @pablotech80" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=144359221&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
 
 ## 🌟 Recommendations
 
