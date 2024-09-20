@@ -19,7 +19,7 @@ I'm a passionate Python Developer with a unique blend of expertise in tech and f
 
 I've recently developed a desktop application that revolutionizes how fitness professionals and nutritionists analyze body composition. This tool provides detailed health assessments, offering a more comprehensive approach to personalized fitness and nutrition planning.
 
-**Repository:** [github.com/pablotech80/analisis_corporal](https://github.com/pablotech80/analisis_corporal)
+**Repository:** [github.com/pablotech80/analisis_corporal](https://github.com/pablotech80/body_analizer)
 
 Key features:
 - Professional-grade body composition analysis
