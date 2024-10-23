@@ -53,7 +53,7 @@ This project showcases my ability to create practical, industry-specific solutio
   <img alt="Notion Badge" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img alt="Scrum Badge" src="https://img.shields.io/badge/Scrum%20Master-4A154B?style=for-the-badge&logo=scrum&logoColor=white"/>
   <img alt="Jira Badge" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" alt="VirtualBox Logo" width="200">
+  <img alt="VirtualBox Badge" src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 
 </p>
 
