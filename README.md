@@ -30,7 +30,7 @@ I'm a passionate Python Developer with a unique blend of expertise in tech and f
   - Generates detailed and customizable health reports.
   - Scalable and easy to integrate with other applications.
 - **Technologies**: Flask, PostgreSQL, Docker, pytest
-- **Repository**: [Body Analyzer API](https://github.com/pablotech80/body_analyzer)
+- **Repository**: [bio analyzer APIRest](https://github.com/pablotech80/bio_analyzer_APIRest)
 
 ---
 
@@ -42,7 +42,7 @@ A desktop tool developed to provide in-depth body composition analysis for healt
   - Professional-grade analysis for health assessments.
   - User-friendly interface for ease of use by health professionals.
   - Data-driven insights for customized fitness and nutrition plans.
-- **Repository**: [Body Composition Analysis Tool](https://github.com/pablotech80/analisis_corporal)
+- **Repository**: [bio analyzer APIRestl](https://github.com/pablotech80/bio_analyzer_APIRest)
 
 ---
 
