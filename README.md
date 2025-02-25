@@ -1,6 +1,6 @@
 # Hello, I'm Pablo Techera! 👋
 
-## 💼 Junior Python Developer | Exploring Health Tech | Fitness Entrepreneur
+## 💼 Python Developer | Exploring Health Tech | Fitness Entrepreneur
 
 I'm a passionate Python Developer with a unique blend of expertise in tech and fitness. With 20 years of experience in fitness and wellness, I'm now focusing on Health Tech to develop innovative solutions that bridge the gap between software development and health, empowering both fitness professionals and their clients.
 
