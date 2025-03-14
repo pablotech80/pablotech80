@@ -118,14 +118,19 @@ A desktop tool developed to provide in-depth body composition analysis for healt
 > *- Joaquin Bejar Garcia, Senior Quant Software Engineer*
 
 ---
-
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="mailto:coachbodyfit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:ptecherasosa@icloud.com"><img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud"/></a>
   <a href="https://linkedin.com/in/pablo-tech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://portfolioptech-pablo-techera-s-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
+---
+## 📄 Download CV
 
+You can download my CV in Spanish here:
+
+[📥 Download CV](https://portfolioptech-pablo-techera-s-projects.vercel.app/)
 ---
 
 <p align="center">
