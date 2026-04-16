@@ -1,4 +1,4 @@
-# Hello, I'm Pablo Techera! 👋
+# Hello, I'm Pablo Techera! 👋 [![Profile Views](https://komarev.com/ghpvc/?username=pablotech80&label=Profile%20views&color=0e76a8&style=flat)](https://github.com/pablotech80)
 
 ## 💼 Digital Solutions Architect · Legaltech · Proptech | AI Agents · Backend · Automation
 
@@ -24,9 +24,6 @@ Fundé **Ptech Solutions** para ofrecer una alternativa a las agencias genérica
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Microsoft_365-00A4EF?style=for-the-badge&logo=microsoft-365&logoColor=white" alt="Microsoft 365"/>
 </p>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=pablotech80&label=Profile%20views&color=0e76a8&style=flat)](https://github.com/pablotech80)
-
 ---
 
 ## 🚀 What I'm Up To
