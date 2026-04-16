@@ -1,11 +1,13 @@
 # Hello, I'm Pablo Techera! 👋
 
-## 💼 Backend Developer | Automation & AI Agents (RAG/RAP) | Python · Django · FastAPI · AWS & GCP
+## 💼 Digital Solutions Architect · Legaltech · Proptech | AI Agents · Backend · Automation
 
-I'm a Backend Developer and founder of **Ptech – Smart Tech Solutions**, a freelance micro-agency specialized in **backend engineering, automation, and AI integration**.  
-I design scalable systems and intelligent workflows using **Python, Django, FastAPI, LangChain, and n8n**, helping startups and companies build data-driven and automation-ready applications.
+Diseño y construyo productos digitales para sectores regulados: **Legaltech** (LexOS, Lexway) y **Proptech** (Housink). Combino arquitectura de software con automatización inteligente para transformar procesos tradicionales en operaciones escalables.
 
-After leading my own business in the health and wellness sector, I transitioned fully into backend development — now combining clean, modular architectures with **workflow automation** and **AI-powered agents (RAG/RAP)** connected to real business data.
+Fundé **Ptech Solutions** para ofrecer una alternativa a las agencias genéricas: desarrollo a medida con entregas semanales, presupuesto cerrado y foco en resultado de negocio.
+
+**Certificaciones:** Meta Developer · Azure · Python Developer · Gestión BBDD · Docker  
+**Stack técnico:** Python · Django · FastAPI · PostgreSQL · AWS · Azure · OpenAI API · n8n · Microsoft 365
 
 📍 Based in Madrid, Spain  
 🌐 Website: [https://ptechsolution.net](https://ptechsolution.net)  
@@ -17,13 +19,10 @@ After leading my own business in the health and wellness sector, I transitioned 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
-  <img src="https://www.ptechsolution.net/logos/logo-langchain.png" width="45" height="45" alt="LangChain"/>
-  <img src="https://www.ptechsolution.net/logos/logo-n8n.png" width="45" height="45" alt="n8n"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://www.ptechsolution.net/logos/logo-aws.png" width="45" height="45" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" alt="Google Cloud"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="Microsoft 365"/>
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pablotech80&label=Profile%20views&color=0e76a8&style=flat)](https://github.com/pablotech80)
@@ -32,147 +31,133 @@ After leading my own business in the health and wellness sector, I transitioned 
 
 ## 🚀 What I'm Up To
 
-- 🤖 Developing **Ptech Automation Hub**, a modular framework for workflow automation and AI agents (RAG/RAP)  
-- 🏗️ Expanding **HOUSINK**, a real-estate SaaS platform built with Django REST Framework  
-- 💪 Growing **CoachBodyFit360**, a SaaS platform integrating **FitMaster AI** for personalized training and nutrition  
-- 👕 Building **ClotheCheck**, a virtual try-on system with Generative AI and computer vision  
-- 🧩 Implementing cloud-native deployments and CI/CD pipelines with **AWS, Railway, and GCP**  
-- 📚 Earning certifications in **Generative AI & Process Automation (AWS / LinkedIn Learning)**  
-- ⚙️ Maintaining clean code and quality with linters: `black`, `flake8`, `isort`  
-- 📖 Documenting APIs with **Swagger/OpenAPI** and full backend docs using **Sphinx**
+- 🎯 **Automatizando prospectación:** FlowLeads reduce el costo de adquisición de clientes para agencias sin necesidad de equipo SDR
+- ⚖️ **Digitalizando despachos:** LexOS elimina el trabajo manual de intake y seguimiento en firmas legales con integración Microsoft 365
+- 💬 **Optimizando intake legal:** Lexway clasifica automáticamente consultas legales vía WhatsApp con IA
+- 🏠 **Conectando agentes inmobiliarios:** Housink centraliza propiedades y simplifica la gestión para profesionales
+- 👕 **Revolucionando e-commerce:** S7ylo permite probar ropa virtualmente antes de comprar con IA generativa
+- 💪 **Democratizando el fitness profesional:** FitMaster analiza métricas corporales con IA y corrige ejercicios en tiempo real vía visión por computadora (YOLO)
+- 🤖 **Potenciando automatización:** Ptech Automation Hub – framework interno de agentes RAG/RAP para integraciones empresariales
 
 ---
 
 ## 🏆 Featured Projects
 
+### 🎯 FlowLeads – White-Label Outbound Platform
+Plataforma white-label que permite a agencias ejecutar campañas outbound sin montar un equipo SDR desde cero.
+
+**Impacto:** Reduce el CAC de agencias y les permite ofrecer servicios de prospectación bajo su propia marca.  
+**Stack:** Python · FastAPI · PostgreSQL · n8n · OpenAI API  
+**Live:** [ptechsolution.net/flowleads](https://www.ptechsolution.net/flowleads)
+
+---
+
+### ⚖️ LexOS – Legal Practice Operating System
+Sistema operativo integral para despachos de abogados: intake, CRM, pipeline e IA integrada con Microsoft 365 nativamente.
+
+**Impacto:** Elimina el trabajo manual de gestión de casos y documentos, permitiendo a los abogados enfocarse en el cliente.  
+**Stack:** Django REST · PostgreSQL · Microsoft Graph API · OpenAI API · Azure  
+**Live:** [ptechsolution.net/lexos](https://www.ptechsolution.net/lexos)
+
+---
+
 ### 🧠 Ptech Automation Hub
-Framework for **automation and intelligent agents**, combining RAG (knowledge retrieval) and RAP (process automation).  
-Enables companies to integrate AI into workflows, optimize data pipelines, and connect APIs securely.
+Framework interno de agentes inteligentes que combina RAG (recuperación de conocimiento) y RAP (automatización de procesos).
 
-- **Features:**
-  - Event-driven orchestration (webhooks, cron, APIs)
-  - RAG pipelines connected to company knowledge bases
-  - Integration with LangChain, OpenAI API, and n8n
-  - Modular design for multi-client scalability
-- **Technologies:** FastAPI, LangChain, n8n, AWS Lambda, PostgreSQL, Docker  
-- **Status:** Internal framework under Ptech Solutions  
+**Impacto:** Permite integrar IA en flujos de trabajo empresariales, optimizar pipelines de datos y conectar APIs de forma segura.  
+**Stack:** FastAPI · LangChain · n8n · AWS Lambda · PostgreSQL · Docker  
+**Status:** Framework interno · Multi-cliente
 
 ---
 
-### 🏠 HOUSINK – Real Estate Social Platform
-A cloud-ready SaaS built with Django REST Framework for individuals, professionals, and companies.  
+### 🏠 Housink – Real Estate Social Platform
+Red social inmobiliaria SaaS para particulares, profesionales y empresas. Centraliza la gestión de propiedades y conecta agentes.
 
-- **Features:**
-  - Role-based registration (individual, professional, business, corporate)
-  - REST API with JWT authentication and permissions
-  - AI-generated property descriptions (OpenAI API)
-  - Media uploads with AWS S3 and CDN integration
-- **Technologies:** Django REST, PostgreSQL, Docker, JWT, AWS, CI/CD  
-- **Stage:** MVP completed – active development for production launch  
+**Impacto:** Simplifica la publicación y búsqueda de propiedades con descripciones generadas por IA y gestión avanzada para agentes.  
+**Stack:** Django REST · PostgreSQL · AWS S3 · OpenAI API · Docker  
+**Live:** [housink.es](https://www.housink.es)
 
 ---
 
-### 💪 CoachBodyFit360 – Fitness & Nutrition SaaS
-Health SaaS integrating **FitMaster AI**, an agent that interprets biometric data and generates personalized nutrition/training plans.
+### ⚖️ Lexway – AI-Powered Legal Intake
+Sistema de intake legal con IA que recibe y clasifica consultas automáticamente vía WhatsApp.
 
-- **Features:**
-  - BioAnalyze module for advanced body composition metrics  
-  - AI-generated plans and recommendations (OpenAI API)  
-  - Secure authentication (AWS Cognito) and S3 media storage  
-  - Full documentation with drf-spectacular and Swagger UI  
-- **Technologies:** Django, PostgreSQL, OpenAI API, AWS EC2, Docker  
+**Impacto:** Captura leads 24/7, clasifica casos por prioridad y reduce el tiempo de respuesta inicial en despachos.  
+**Stack:** Django REST · PostgreSQL · OpenAI API · WhatsApp Business API  
+**Live:** [lexway.es](https://www.lexway.es)
 
 ---
 
-### 👕 ClotheCheck – Virtual Try-On (Generative AI)
-Prototype of a virtual try-on experience for fashion e-commerce using **computer vision** and **generative AI**.
+### 💪 FitMaster – Fitness & Nutrition SaaS
+Plataforma de salud con IA que interpreta métricas biométricas y genera planes personalizados. Módulo YOLO para análisis de movimientos corporales y corrección de ejercicios en tiempo real.
 
-- **Features:**
-  - AI-driven body segmentation and garment overlay
-  - Generative rendering from different angles
-  - REST API integration for third-party e-commerce platforms
-- **Technologies:** FastAPI, OpenCV, Vision AI, Python  
+**Impacto:** Interpreta métricas corporales complejas y genera planes personalizados, haciendo accesible el análisis profesional.  
+**Stack:** Django · PostgreSQL · OpenAI API · AWS Cognito · S3 · YOLO  
+**Live:** [app.fitmaster.tech/landing](https://app.fitmaster.tech/landing)
+
+---
+
+### 🛍️ S7ylo – AI Try-On for E-commerce
+Sistema de prueba virtual de ropa en tiempo real con IA generativa para experiencias de compra digital.
+
+**Impacto:** Reduce devoluciones en e-commerce al permitir a los usuarios visualizar prendas antes de comprar.  
+**Stack:** FastAPI · OpenCV · Vision AI · Python  
+**Live:** [s7ylo.com](https://s7ylo.com)
 
 ---
 
 ### 🧬 BioAnalyze API
-RESTful microservice that calculates essential body metrics (BMI, BMR, fat percentage).  
-Modular, secure, and production-ready — integrated with CoachBodyFit360.
+Microservicio REST que calcula métricas corporales esenciales (IMC, TMB, porcentaje graso).
 
-- **Features:**
-  - Multi-metric health analysis  
-  - JWT-protected endpoints and validation  
-  - Dockerized and CI-tested for cloud deployment  
-- **Technologies:** Flask, PostgreSQL, Docker, pytest  
-- **Live Beta:** [bioanalyze-api.railway.app](https://bioanalyze.up.railway.app/informe_web)
+**Impacto:** Proporciona análisis de composición corporal preciso para profesionales de la salud y plataformas fitness.  
+**Stack:** Flask · PostgreSQL · Docker · pytest  
+**Live:** [bioanalyze.up.railway.app](https://bioanalyze.up.railway.app/informe_web)
 
 ---
 
 ### 🖥️ Body Composition Analysis Tool (Desktop GUI)
-A professional desktop app for physical data analysis and reporting.  
-Built to complement the BioAnalyze API.
+Aplicación desktop profesional para análisis físico y generación de informes. Complemento de BioAnalyze API.
 
-- **Features:**
-  - Visual analysis and printable reports  
-  - Tkinter GUI with exportable PDFs  
-  - Designed for professional health assessments  
+**Impacto:** Herramienta de escritorio para profesionales de la salud que necesitan análisis rápido con informes exportables.  
+**Stack:** Python · Tkinter · ReportLab · PDF export
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Technical Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-0B5FFF?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-F04E98?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sphinx-4B4B77?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/isort-F0DB4F?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/flake8-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum%20Master-4A154B?style=for-the-badge&logo=scrum&logoColor=white"/>
-</p>
+**Core:** Python · Django · FastAPI · PostgreSQL · Docker
+
+**Cloud & AI:** Azure · AWS · OpenAI API · n8n · LangChain
+
+**Integraciones:** Microsoft 365 · Microsoft Graph API · WhatsApp Business API
+
+**Verticales:** Legaltech · Proptech · Healthtech · E-commerce
+
+**Calidad:** API-first · Test-driven · Documentado · CI/CD
 
 ---
 
 ## 💼 Professional Experience
 
-### Freelance Backend Developer | Ptech – Smart Tech Solutions  
-*2025 – Present | Remote via Malt*  
-- Founder and backend developer of Ptech Solutions, a micro-agency delivering backend systems, automation, and AI integration.  
-- Building automation workflows and backend APIs using Django REST and FastAPI.  
-- Working with real clients under agile workflows (GitHub, Jira, budgets, estimations).  
-- Current focus: Automation Hub, Housink, CoachBodyFit360.  
+### Digital Solutions Architect | Ptech – Smart Tech Solutions
+*2025 – Present | Remote*
+Arquitecto y fundador de Ptech Solutions. Diseño productos SaaS en verticales Legaltech y Proptech.
 
-### Backend Developer | Grupo Vemare (Polaris project)  
-*2024 – 2025 | Madrid, Spain (via Page Group)*  
-- Contributed to the company’s **internal Extranet** for logistics and inventory tracking.  
-- Worked with the **TurboGears** framework and PostgreSQL for backend development.  
-- Integrated APIs for warehouse automation and cross-department communication.  
+- **Productos en producción:** FlowLeads (outbound B2B), LexOS (práctica legal), Lexway (intake WhatsApp), Housink (proptech), S7ylo (AI try-on)
+- **Metodología:** Presupuesto cerrado, entregas semanales, stack Python/Django/FastAPI + Azure/AWS
+- **Integraciones empresariales:** Microsoft 365, WhatsApp Business API, sistemas legados
 
-### Junior Python Developer | Taunais Research  
-*2023 – 2024 | London, UK (Remote)*  
-- Processed financial datasets using Pandas and NumPy.  
-- Built and optimized Flask/Django APIs for internal analysis.  
-- Deployed services with Docker and AWS, maintaining MongoDB and Redis for caching.  
+### Backend Developer | Grupo Vemare (Polaris)
+*2024 – 2025 | Madrid*
+Desarrollo de extranet interna para logística. Integración APIs almacén (TurboGears, PostgreSQL).
 
-### Data Developer Intern | Ignitus  
-*2021 – 2022 | Remote*  
-- Created Python scripts for data cleaning, visualization, and analysis.  
-- Built basic pipelines with Pandas, NumPy, and Matplotlib.  
-- First contact with backend data processing and API development.  
+### Python Developer | Taunais Research
+*2023 – 2024 | London (Remote)*
+APIs Flask/Django para análisis financiero. Pandas/NumPy, Docker/AWS, MongoDB + Redis.
+
+### Data Developer Intern | Ignitus
+*2021 – 2022 | Remote*
+Procesamiento de datos con Python, Pandas, pipelines ETL. Primer contacto con backend y APIs.
 
 ---
 
@@ -198,15 +183,9 @@ Built to complement the BioAnalyze API.
 <p align="center">
   <a href="mailto:dev@ptechsolution.net"><img src="https://img.shields.io/badge/Email-0e76a8?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/pablo-tech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/pablotech80" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://ptechsolution.net" target="_blank"><img src="https://img.shields.io/badge/Ptech%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/></a>
 </p>
-
----
-
-## 📄 Download CV
-
-You can download my latest CV in Spanish here:  
-[📥 Download CV](https://ptechsolution.net)
 
 ---
 
