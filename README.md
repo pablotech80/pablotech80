@@ -1,4 +1,7 @@
-# Hello, I'm Pablo Techera! 👋 [![Profile Views](https://komarev.com/ghpvc/?username=pablotech80&label=Profile%20views&color=0e76a8&style=flat)](https://github.com/pablotech80)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=pablotech80&label=Profile%20views&color=0e76a8&style=flat)](https://github.com/pablotech80)
+
+# Hello, I'm Pablo Techera! 👋 
 
 ## 💼 Digital Solutions Architect · Legaltech · Proptech | AI Agents · Backend · Automation
 
