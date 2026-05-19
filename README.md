@@ -163,8 +163,13 @@ Procesamiento de datos con Python, Pandas, pipelines ETL. Primer contacto con ba
 
 ## 📊 GitHub Activity and Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablotech80&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablotech80&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pablotech80&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablotech80&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
