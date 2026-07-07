@@ -14,7 +14,7 @@ Fundé **Ptech Solutions** para ofrecer una alternativa a las agencias genérica
 
 📍 Based in Madrid, Spain  
 🌐 Website: [https://ptechsolution.net](https://ptechsolution.net)  
-📫 Email: [dev@ptechsolution.net](mailto:dev@ptechsolution.net)
+📫 Email: [hello@ptechsolution.net](mailto:hello@ptechsolution.net)
 
 ---
 
