@@ -32,6 +32,52 @@ Direct contact:
 
 ---
 
+## Stack, Platforms & Credentials
+
+**AI & Automation**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/RAG_Systems-111111?style=for-the-badge" alt="RAG Systems"/>
+  <img src="https://img.shields.io/badge/AI_Agents-2ea44f?style=for-the-badge" alt="AI Agents"/>
+</p>
+
+**Backend & Data**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" alt="REST APIs"/>
+</p>
+
+**Cloud & DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+</p>
+
+**Certifications & Training Areas**
+
+<p>
+  <img src="https://img.shields.io/badge/Meta_Developer-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Developer"/>
+  <img src="https://img.shields.io/badge/Azure_Certification-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Certification"/>
+  <img src="https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer"/>
+  <img src="https://img.shields.io/badge/Database_Management-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database Management"/>
+  <img src="https://img.shields.io/badge/Docker_Training-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Training"/>
+</p>
+
+---
+
 ## Professional Update
 
 I am repositioning my work around **AI Systems Architecture**: not just building AI features, but designing complete systems where models, data, prompts, tools, backend services, security, cost, and operations work as one coherent architecture.
