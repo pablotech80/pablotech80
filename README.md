@@ -141,22 +141,6 @@ PSDM is a framework for governing software projects built with AI assistance. It
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablotech80&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablotech80&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2ea44f/pablotech80" alt="GitHub Contributions" />
-</p>
-
----
-
 ## Connect
 
 <p align="center">
