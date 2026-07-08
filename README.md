@@ -22,12 +22,6 @@ Direct contact:
   <img src="https://img.shields.io/badge/AI_Systems_Architect-111111?style=for-the-badge" alt="AI Systems Architect"/>
   <img src="https://img.shields.io/badge/Freelance-0e76a8?style=for-the-badge" alt="Freelance"/>
   <img src="https://img.shields.io/badge/Open_Source-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
 ---
@@ -39,19 +33,32 @@ Direct contact:
 <p>
   <img src="https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge" alt="LangSmith"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
   <img src="https://img.shields.io/badge/RAG_Systems-111111?style=for-the-badge" alt="RAG Systems"/>
   <img src="https://img.shields.io/badge/AI_Agents-2ea44f?style=for-the-badge" alt="AI Agents"/>
 </p>
 
-**Backend & Data**
+**Workflow & Observability**
+
+<p>
+  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
+  <img src="https://img.shields.io/badge/GitHub_Issues-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Issues"/>
+  <img src="https://img.shields.io/badge/Technical_Delivery-111111?style=for-the-badge" alt="Technical Delivery"/>
+</p>
+
+**Backend, Data & Tooling**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Database_Design-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database Design"/>
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" alt="REST APIs"/>
 </p>
 
@@ -62,6 +69,9 @@ Direct contact:
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner"/>
+  <img src="https://img.shields.io/badge/VPS-111111?style=for-the-badge" alt="VPS"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
 </p>
@@ -74,6 +84,7 @@ Direct contact:
   <img src="https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer"/>
   <img src="https://img.shields.io/badge/Database_Management-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database Management"/>
   <img src="https://img.shields.io/badge/Docker_Training-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Training"/>
+  <img src="https://img.shields.io/badge/Scrum_Master-6DB33F?style=for-the-badge" alt="Scrum Master"/>
 </p>
 
 ---
@@ -133,10 +144,12 @@ PSDM is a framework for governing software projects built with AI assistance. It
 
 ## What I Am Building Around
 
-**AI systems:** agents, RAG, tool orchestration, prompt governance, evaluation-aware workflows.  
-**Backend platforms:** Django, FastAPI, PostgreSQL, API-first design, modular systems.  
+**AI systems:** agents, RAG, LangChain, LangSmith, tool orchestration, prompt governance, evaluation-aware workflows.  
+**Backend platforms:** Django, FastAPI, PostgreSQL, SQL, GDB, API-first design, modular systems.  
 **Automation:** n8n, Microsoft Graph, WhatsApp Business API, internal workflows.  
-**Governance:** specifications, ADRs, risk classification, release gates, security boundaries.  
+**Cloud & delivery:** Azure, AWS, Google Cloud, Vercel, Hetzner VPS, Docker, GitHub Actions.  
+**Observability & workflow:** Datadog, Linear, delivery tracking, operational feedback loops.  
+**Governance:** specifications, ADRs, Scrum delivery, risk classification, release gates, security boundaries.  
 **Product work:** published and maintained through [ptechsolution.net](https://ptechsolution.net).
 
 ---
